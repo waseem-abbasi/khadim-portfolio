@@ -1,13 +1,13 @@
 // Data & Configuration for Khadim-e-Khwaja Portfolio
 
 export const KHADIM_PROFILE = {
-  name: "Alhaj Syed Khadim Sahab Chishti",
+  name: "Kaji Syed Hussainuddin",
   title: "Gaddi Nashin & Moallim / Hereditary Khadim-e-Khas",
   dargah: "Dargah Hazrat Khwaja Moinuddin Hasan Chishti (R.A.), Ajmer Sharif",
-  phone1: "+91 98290 12345",
-  phone2: "+91 94140 54321",
-  whatsapp: "919829012345", // Without + sign for WhatsApp link
-  email: "khadim.ajmersharif@gmail.com",
+  phone1: "+91 86960 58923",
+  phone2: "+91 86960 58923",
+  whatsapp: "9186960 58923", // Without + sign for WhatsApp link
+  email: "syedhussainuddin02@gmail.com",
   officeAddress: "Chishti Manzil, Gate No. 1 (Nizam Gate), Dargah Sharif, Ajmer, Rajasthan - 305001",
   experienceYears: "28+",
   devoteesServed: "75,000+",
