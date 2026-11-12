@@ -130,7 +130,7 @@ export const Hero = ({ onOpenDonationModal, onOpenDuaModal }) => {
               >
                 <div className="position-relative overflow-hidden rounded-3 mb-3" style={{ height: '360px' }}>
                   <img 
-                    src="https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=800&q=80" 
+                    src="	https://elevatexindia.cloud/profile/uploads/user_121_99af731ac38f894d.jpg" 
                     alt="Syed Khadim Sahab Chishti" 
                     className="w-100 h-100 object-fit-cover"
                   />

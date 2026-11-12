@@ -14,7 +14,7 @@ export const AboutKhadim = () => {
                 style={{ maxHeight: '500px' }}
               >
                 <img 
-                  src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80" 
+                  src="	https://elevatexindia.cloud/profile/uploads/user_121_99af731ac38f894d.jpg" 
                   alt="Khadim Sahab Dargah Ajmer" 
                   className="w-100 h-100 object-fit-cover"
                 />

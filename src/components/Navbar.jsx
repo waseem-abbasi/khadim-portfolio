@@ -55,7 +55,7 @@ export const Navbar = ({ onOpenDonationModal, onOpenDuaModal }) => {
             </div>
             <div>
               <div className="font-serif fw-bold text-gold" style={{ fontSize: '1.2rem', lineHeight: '1.2' }}>
-                Syed Khadim Sahab
+                Kaji Syed Hussainuddin
               </div>
               <small className="text-white-50 d-block" style={{ fontSize: '0.72rem', letterSpacing: '0.5px' }}>
                 Khadim-e-Khwaja Garib Nawaz (R.A.) | Ajmer
